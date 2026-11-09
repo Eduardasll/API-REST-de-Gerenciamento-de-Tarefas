@@ -1,0 +1,32 @@
+# Arquivo de especificação técnica (não faz parte do código entregue)
+README_02_API_TAREFAS.md
+
+# Build Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Logs e sistema operacional
+*.log
+.DS_Store
+Thumbs.db
+
+# Banco de dados H2 em arquivo (caso seja gerado)
+*.db
+*.mv.db
+*.trace.db
