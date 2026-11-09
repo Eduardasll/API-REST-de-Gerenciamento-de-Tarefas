@@ -1,6 +1,10 @@
 # Arquivo de especificação técnica (não faz parte do código entregue)
 README_02_API_TAREFAS.md
 
+# Guia de estudo pessoal (não versionado)
+ESTUDO.md
+ESTUDO2.md
+
 # Build Maven
 target/
 !.mvn/wrapper/maven-wrapper.jar

@@ -3,9 +3,6 @@
 API feita com **Java 17** e **Spring Boot** para cadastrar, consultar, atualizar e excluir
 tarefas. É um CRUD completo, testável pelo Postman, usando banco **H2** (em memória) por padrão.
 
-> 📚 Quer entender o código por dentro, linha a linha, com os conceitos de Java, Spring, JPA, DDD
-> e Clean Code? Veja o guia de estudo: **[ESTUDO.md](ESTUDO.md)**.
-
 ---
 
 ## Funcionalidades
